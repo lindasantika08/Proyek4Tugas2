@@ -1,7 +1,9 @@
 # Proyek4Tugas2
 
 Nama: Linda Santika (221511052)
+
 Kelas: 2B D3-Teknik Informatika
+
 pengaturan longitude: 107.613144 dan latitude: -6.905977 Kota Bandung Jawa Barat menurut sumber dari Latlong.net
 
 Hasil Celcius:
